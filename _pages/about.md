@@ -28,3 +28,5 @@ I am an Assistant Professor in the Institute of Computing Technology, Chinese Ac
 - **[ICCD-23-1]** Tianyu Liu, Wenming Li, **Zhihua Fan**. [DFGC: DFG-aware NoC Control based on Time Stamp Prediction for Dataflow Architecture](https://ieeexplore.ieee.org/abstract/document/10360981). In IEEE 41st International Conference on Computer Design (ICCD), 2023, pp. 432-439. (CCF-B，通讯作者)
 - **[ICCD-23-2]** Haibin Wu, Wenming Li, **Zhihua Fan**, Zhen Wang, TianyuLiu, Junying Huang, Shengzhong Tang, Yanhuan Liu, Kunming Zhang, Xiaochun Ye, Dongrui Fan. [Alleviating Transfer Latency in DataFlow Accelerator for DSP Applications](https://ieeexplore.ieee.org/abstract/document/10360976). In IEEE 41st International Conference on Computer Design (ICCD), 2023, pp. 440-443. (CCF-B，通讯作者)
 - **[DATE-22]** Xinxin Wu, **Zhihua Fan**, Tianyu Liu, Wenming Li, Xiaochun Ye, Dongrui Fan. [LRP: Predictive output activation based on SVD approach for CNNs acceleration](https://ieeexplore.ieee.org/abstract/document/9774744). In 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022, pp. 831-836. (CCF-B)
+
+## 📖 Educations {#educations}
