@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am an Assistant Professor in the Institute of Computing Technology, Chinese Academy of Sciences.
+{:#aboutme}
 
 ## 🔥 News {#news}
 
