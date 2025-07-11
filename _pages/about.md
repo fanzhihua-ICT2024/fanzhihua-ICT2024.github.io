@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ## 📑 Publications
----
 - **[TACO-24]** **Zhihua Fan**, Wenming Li, Zhen Wang, Yu Yang, Xiaochun Ye, Dongrui Fan, Ninghui Sun, Xuejun An. [Improving Utilization of Dataflow Unit for Muti-Batch Processing](https://dl.acm.org/doi/full/10.1145/3637906). ACM Transactions on Architecture and Code Optimization (TACO). Volume 21 Issue 1, Article No. 17, pp 1–26. 2024. (CCF-A)
 - **[TPDS-23]** **Zhihua Fan**, Wenming Li, Zhen Wang, Tianyu Liu, Haibin Wu, Yanhuan Liu, Meng Wu, Xinxin Wu, Xiaochun Ye, Dongrui Fan, Ninghui Sun, Xuejun An. [Accelerating Convolutional Neural Networks by Exploiting the Sparsity of Output Activation](https://ieeexplore.ieee.org/abstract/document/10286398). In IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 34, no. 12, pp. 3253-3265, 2023. (CCF-A)
 - **[EuroPar-23]** **Zhihua Fan**, Wenming Li, Shengzhong Tang,Xuejun An, Xiaochun Ye, Dongrui Fan. [Improving Utilization of Dataflow Architectures Through Software and Hardware Co-Design](https://link.springer.com/chapter/10.1007/978-3-031-39698-4_17). In Euro-Par 2023: Parallel Processing. Lecture Notes in Computer Science, vol 14100. Springer 2023. (CCF-B)
