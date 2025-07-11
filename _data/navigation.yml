@@ -17,6 +17,8 @@ main:
   - title: "Publications"
     url: /#publications
 
+  - title: "Educations"
+    url: /#educations
     
   # - title: "CV"
   #   url: /cv-json/
