@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Zhihua Fan (范志华)"
+title: "Zhihua Fan (范志华) {#aboutme}"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-{#aboutme}
 I am an Assistant Professor in the Institute of Computing Technology, Chinese Academy of Sciences.
 
 ## 🔥 News {#news}
