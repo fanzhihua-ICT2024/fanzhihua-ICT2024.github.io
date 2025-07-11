@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhihua Fan (范志华) {#aboutme}"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
