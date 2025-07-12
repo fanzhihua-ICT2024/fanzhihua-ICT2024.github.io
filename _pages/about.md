@@ -49,7 +49,15 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 ## 🌟 Honors {#honors}
 
+- Chinese Academy of Sciences President's Scholarship （2024）
+- Beijing Outstanding Graduate Award （2024）
+- Outstanding Paper Nomination Award at CCF HPC China （2023）
 
+## 🌟  Services {#services}
+
+- Program Committee Member for HPC China 2025
+- Program Committee Member for ISPA 2025
+- Journal Reviewer: Journal of systems architecture，Future generation computer systems，Sustainable computing......
 
 
 ## 🎓 Educations {#educations}
