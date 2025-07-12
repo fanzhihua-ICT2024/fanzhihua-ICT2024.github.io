@@ -65,7 +65,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 
 ## 🖥️ Experience {#experience}
-- _2024.07_ - _Present_:  Assistant Professor
+- _2024.07_ - _Present_ ,  Assistant Professor
 
 ## 👥 Team {#team}
 
