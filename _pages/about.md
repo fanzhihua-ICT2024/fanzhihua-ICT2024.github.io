@@ -22,7 +22,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 
 - **[TACO-25]** [GenCNN: A Partition-Aware Multi-Objective Mapping Framework for CNN Accelerator Based on Genetic Algorithm]. Yudong Mu, **Zhihua Fan\***, Wenming Li, Zhiyuan Zhang, Xuejun An, Dongrui Fan, and Xiaochun Ye. In ACM Transactions on Architecture and Code Optimization (Just Accept). **(_CCF-A, Corresponding Author_)**
-- **[TACO-25]** [DFU-E: A Dataflow Architecture for Edge DSP and AI Applications](https://dl.acm.org/doi/10.1109/TPDS.2025.3555329). Wenming Li, **Zhihua Fan\***, Tianyu Liu, Zhen Wang, Haibin Wu, Meng Wu, Kunming Zhang, Yanhuan Liu, Ninghui Sun, Xiaochun Ye, and Dongrui Fan. In IEEE Transactions on Parallel and Distributed Systems, Volume 36, Issue 6, pp 1100-1114. **(_CCF-A, Corresponding Author_)**
+- **[TPDS-25]** [DFU-E: A Dataflow Architecture for Edge DSP and AI Applications](https://dl.acm.org/doi/10.1109/TPDS.2025.3555329). Wenming Li, **Zhihua Fan\***, Tianyu Liu, Zhen Wang, Haibin Wu, Meng Wu, Kunming Zhang, Yanhuan Liu, Ninghui Sun, Xiaochun Ye, and Dongrui Fan. In IEEE Transactions on Parallel and Distributed Systems, Volume 36, Issue 6, pp 1100-1114. **(_CCF-A, Corresponding Author_)**
 - **[TCAD-25]** [A RISC-V Extended Infrastructure for CNNs Through Pipelined Computing and Data Dependence Optimization](https://dl.acm.org/doi/10.1109/TPDS.2025.3555329). Teng Luo, Tengfei Xia, Jiayuan Chen, **Zhihua Fan\***, Wenming Li, Yudong Mu, Xuejun An, Xiaochun Ye, and Dongrui Fan. In IEEE Transactions on Parallel and Distributed Systems (Early Access). **(_CCF-A, Corresponding Author_)**
 - **[EuroPar-25]** [FDHA: Fusion-Driven Heterogeneous Accelerator for Efficient Diffusion Model Inference]. Yudong Mu, **Zhihua Fan\***, Xiaoxia Yao, Wenming Li, Zhiyuan Zhang, Honglie Wang, Xuejun An, and Xiaochun Ye. In European Conference on Parallel and Distributed Computing (Just Accept). **(_CCF-B, Corresponding Author_)**
 - **[APPT-25]**  [NFMap: Node Fusion Optimization for Efficient CGRA Mapping with Reinforcement Learning].Yudong Mu, Siyi Li, **Zhihua Fan\***, Wenming Li, Xuejun An and Xiaochun Ye. In International Symposium on Advanced Parallel Processing Technology (Just Accept). **(_Corresponding Author_)**
@@ -45,8 +45,6 @@ My research focuses on developing high-efficiency processor architectures by exp
 - **[DATE-22]** [LRP: Predictive output activation based on SVD approach for CNNs acceleration](https://ieeexplore.ieee.org/abstract/document/9774744). Xinxin Wu, **Zhihua Fan**, Tianyu Liu, Wenming Li, Xiaochun Ye, Dongrui Fan. In 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022, pp. 831-836. **(_CCF-B_)**
 - **[CAL-22]** [Characterization and Implementation of Radar System Applications on a Reconfigurable Dataflow Architecture](https://ieeexplore.ieee.org/document/9924542). Yinshen Wang,  Wenming Li, Tianyu Liu, Liangjiang Zhou, Bingnan Wang, **Zhihua Fan**, Xiaochun Ye, Dongrui Fan, Chibiao Ding. In IEEE Computer Architecture Letters, 2022, 21(2): 121-124.
 - **[数据与计算发展前沿-21]** [数据流计算研究进展与概述]. **范志华**,李文明,叶笑春,范东睿. 数据与计算发展前沿, 2021, 3(5): 65-81. **(_CCF-T3, Invited_paper_)**
-
-
 
 
 
