@@ -22,6 +22,8 @@ main:
 
   - title: "Team"
     url: /#team
-    
+
+  - title: "Contact"
+    url: /#contact
   # - title: "CV"
   #   url: /cv-json/
