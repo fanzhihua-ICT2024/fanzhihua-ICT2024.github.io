@@ -32,8 +32,10 @@ I am a member of the xxx group at ICT, CAS. My current research interests includ
 - **[DATE-22]** Xinxin Wu, **Zhihua Fan**, Tianyu Liu, Wenming Li, Xiaochun Ye, Dongrui Fan. [LRP: Predictive output activation based on SVD approach for CNNs acceleration](https://ieeexplore.ieee.org/abstract/document/9774744). In 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022, pp. 831-836. (CCF-B)
 
 ## 🎓 Educations {#educations}
-- _2018.09-2024.06_: Ph.D. student at the University of Chinese Academy of Sciences under the supervision of Prof. Xuejun An
-- _2014.09-2018.06_: B.S. student at Jilin University
+- _2018.09-2024.06_:  Ph.D., Computer Architecture, Institute of Computing Technology, CAS
+- _2014.09-2018.06_:  B.S.,  Computer Science and Technology, Jilin University
+
+
 
 ## 🖥️ Experience {#experience}
 - _2024.07-Present_: Assistant Professor in the Institute of Computing Technology, Chinese Academy of Sciences
