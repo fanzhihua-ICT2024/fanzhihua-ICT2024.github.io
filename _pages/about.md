@@ -40,9 +40,9 @@ I am a member of the xxx group at ICT, CAS. My current research interests includ
 
 ## 👥 Team {#team}
 
-- Professor Wenming Li, Ph.D. Supervisor: liwenming [at] ict.ac.cn
-- Professor Xiaochun Ye, Ph.D. Supervisor: yexiaochun [at] ict.ac.cn
-- Professor Xuejun An, Ph.D. Supervisor: axj [at] ict.ac.cn
+- Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html), Ph.D. Supervisor: liwenming [at] ict.ac.cn
+- Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html), Ph.D. Supervisor: yexiaochun [at] ict.ac.cn
+- Prof. [Xuejun An](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html), Ph.D. Supervisor: axj [at] ict.ac.cn 
 
 
 ## ✉️ Contact {#contact}
