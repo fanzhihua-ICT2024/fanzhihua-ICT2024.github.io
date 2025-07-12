@@ -13,8 +13,6 @@ I am an Assistant Professor at the Institute of Computing Technology (ICT), Chin
 My research focuses on developing high-efficiency processor architectures by exploring innovative computing paradigms. My current interests include dataflow architecture, reconfigurable architecture, and open-source instruction set architectures such as RISC-V, with applications in high-throughput computing and domain-specific acceleration.
 
 
-
-
 {:#aboutme}
 
 ## 📝 Publications {#publications}
