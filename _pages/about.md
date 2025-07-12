@@ -33,5 +33,7 @@ I am an Assistant Professor in the Institute of Computing Technology, Chinese Ac
 - **[DATE-22]** Xinxin Wu, **Zhihua Fan**, Tianyu Liu, Wenming Li, Xiaochun Ye, Dongrui Fan. [LRP: Predictive output activation based on SVD approach for CNNs acceleration](https://ieeexplore.ieee.org/abstract/document/9774744). In 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2022, pp. 831-836. (CCF-B)
 
 ## 🎓 Educations {#educations}
+- 2018.09-2024.06: Ph.D. student at the University of Chinese Academy of Sciences under the supervision of Prof. Xuejun An
+- 2014.09-2018.06: B.S. student at Jilin University
 
 ## 👥 Team {#team}
