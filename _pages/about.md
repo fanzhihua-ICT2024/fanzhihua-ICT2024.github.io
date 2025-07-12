@@ -36,4 +36,7 @@ I am an Assistant Professor in the Institute of Computing Technology, Chinese Ac
 - 2018.09-2024.06: Ph.D. student at the University of Chinese Academy of Sciences under the supervision of Prof. Xuejun An
 - 2014.09-2018.06: B.S. student at Jilin University
 
+## 🖥️ Experience {#experience}
+- 2024.07-Present: Assistant Professor in the Institute of Computing Technology, Chinese Academy of Sciences
+
 ## 👥 Team {#team}
