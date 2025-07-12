@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the Institute of Computing Technology (ICT), Chinese Academy of Sciences. I received my Ph.D. in Computer Architecture from ICT, Chinese Academy of Sciences in 2024, under the supervision of Prof. Xuejun An. I earned my B.S. degree in Computer Science and Technology from the College of Computer Science and Technology, Jilin University, in 2018.
 
-My research focuses on developing high-efficiency processor architectures by exploring innovative computing paradigms. My current interests include dataflow-based multi-core processor design, data-driven execution models, and open-source instruction set architectures such as RISC-V, with applications in high-throughput computing and domain-specific acceleration.
+My research focuses on developing high-efficiency processor architectures by exploring innovative computing paradigms. My current interests include dataflow-based multi-core processor design, dataflow execution models, and open-source instruction set architectures such as RISC-V, with applications in high-throughput computing and domain-specific acceleration.
 
 
 
