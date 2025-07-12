@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am an Assistant Professor in the Institute of Computing Technology (ICT), Chinese Academy of Sciences. I received my Ph.D. degree from the University of Chinese Academy of Sciences supervised by Prof. Xuejun An, and received my B.S. degree from the College of Computer Science and Technology, Jilin University.
-I am a member of the xxx group (led by Prof. xxx) at ICT, CAS. My current research interests include dataflow architecture, programming model and reconfigurable architecture. I have published xx+ papers in xxx.
+I am a member of the xxx group at ICT, CAS. My current research interests include dataflow architecture, programming model and reconfigurable architecture. I have published xx+ papers in xxx.
 {:#aboutme}
 
 ## 🔥 News {#news}
