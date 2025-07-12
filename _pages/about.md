@@ -40,8 +40,14 @@ I am a member of the xxx group at ICT, CAS. My current research interests includ
 
 ## 👥 Team {#team}
 
+- Professor Wenming Li, Ph.D. Supervisor: liwenming [at] ict.ac.cn
+- Professor Xiaochun Ye, Ph.D. Supervisor: yexiaochun [at] ict.ac.cn
+- Professor Xuejun An, Ph.D. Supervisor: axj [at] ict.ac.cn
+
+
 ## ✉️ Contact {#contact}
 
 - Email: fanzhihua [at] ict.ac.cn
-- Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
+- Address: Building 1, Yard 33, Wensong Road, Haidian District, Beijing, China
+
 
