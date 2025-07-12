@@ -48,7 +48,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 - Beijing Outstanding Graduate Award （2024）
 - Outstanding Paper Nomination Award at CCF HPC China （2023）
 
-## 👥  Services {#services}
+## 👨‍🏫 Services {#services}
 
 - Program Committee Member for HPC China 2025
 - Program Committee Member for ISPA 2025
@@ -64,7 +64,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 ## 🖥️ Experience {#experience}
 - _2024.07_ - _Present_ ,  Assistant Professor
 
-## 👥 Team {#team}
+## 👥 Supervisory Faculty {#team}
 
 - Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html), Ph.D. Supervisor: yexiaochun [at] ict.ac.cn
 - Prof. [Xuejun An](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html), Ph.D. Supervisor: axj [at] ict.ac.cn 
