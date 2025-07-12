@@ -41,3 +41,7 @@ I am a member of the xxx group at ICT, CAS. My current research interests includ
 ## 👥 Team {#team}
 
 ## ✉️ Contact {#contact}
+
+- Email: fanzhihua [at] ict.ac.cn
+- Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
+
