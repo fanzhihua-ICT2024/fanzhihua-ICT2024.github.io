@@ -21,7 +21,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 (_* indicates the corresponding author_)
 
 
-- **[TACO-25]** [GenCNN: A Partition-Aware Multi-Objective Mapping Framework for CNN Accelerator Based on Genetic Algorithm]. Yudong Mu, **Zhihua Fan\***, Wenming Li, Zhiyuan Zhang, Xuejun An, Dongrui Fan, Xiaochun Ye. In ACM Transactions on Architecture and Code Optimization (Just Accept). _**(CCF-A, Corresponding Author)**_
+- **[TACO-25]** [GenCNN: A Partition-Aware Multi-Objective Mapping Framework for CNN Accelerator Based on Genetic Algorithm]. Yudong Mu, **Zhihua Fan\***, Wenming Li, Zhiyuan Zhang, Xuejun An, Dongrui Fan, Xiaochun Ye. In ACM Transactions on Architecture and Code Optimization (Just Accept). **(_CCF-A, Corresponding Author_)**
 
 
 
