@@ -53,7 +53,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 - Beijing Outstanding Graduate Award （2024）
 - Outstanding Paper Nomination Award at CCF HPC China （2023）
 
-## 🌟  Services {#services}
+## 👥  Services {#services}
 
 - Program Committee Member for HPC China 2025
 - Program Committee Member for ISPA 2025
