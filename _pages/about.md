@@ -57,8 +57,8 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 
 ## 🎓 Educations {#educations}
-- _2018.09 - 2024.06_ ,  Ph.D. in Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences
-- _2014.09 - 2018.06_ ,  B.S. in Computer Science and Technology, Jilin University
+- _2018.09 - 2024.06_,  Ph.D. in Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences
+- _2014.09 - 2018.06_,  B.S. in Computer Science and Technology, Jilin University
 
 
 
