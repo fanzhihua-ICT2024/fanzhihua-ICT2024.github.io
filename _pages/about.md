@@ -15,7 +15,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 ## 📝 Publications {#publications}
 (_* indicates the corresponding author_)
 
-
+- **[TACO-25]** [DFGAS: Exploring the Balance of HW-SW Scheduling through the DFG-Aware Scheme](). Tianyu Liu, **Zhihua Fan\***, Wenming Li, Zhen Wang, Yuhang Qiu, Shengzhong Tang, Haibin Wu, Yanhuan Liu, Xiaochun Ye, and Dongrui Fan. In ACM Transactions on Architecture and Code Optimization (Just Accept). **(_CCF-A, Corresponding Author_)**
 - **[TACO-25]** [GenCNN: A Partition-Aware Multi-Objective Mapping Framework for CNN Accelerator Based on Genetic Algorithm](https://dl.acm.org/doi/pdf/10.1145/3747844). Yudong Mu, **Zhihua Fan\***, Wenming Li, Zhiyuan Zhang, Xuejun An, Dongrui Fan, and Xiaochun Ye. In ACM Transactions on Architecture and Code Optimization, Volume 22, Issue 3, Article No.105, Pages 1-26. **(_CCF-A, Corresponding Author_)**
 - **[TPDS-25]** [DFU-E: A Dataflow Architecture for Edge DSP and AI Applications](https://dl.acm.org/doi/10.1109/TPDS.2025.3555329). Wenming Li, **Zhihua Fan\***, Tianyu Liu, Zhen Wang, Haibin Wu, Meng Wu, Kunming Zhang, Yanhuan Liu, Ninghui Sun, Xiaochun Ye, and Dongrui Fan. In IEEE Transactions on Parallel and Distributed Systems, Volume 36, Issue 6, pp 1100-1114. **(_CCF-A, Corresponding Author_)**
 - **[TCAD-25]** [A RISC-V Extended Infrastructure for CNNs Through Pipelined Computing and Data Dependence Optimization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10980005). Teng Luo, Tengfei Xia, Jiayuan Chen, **Zhihua Fan\***, Wenming Li, Yudong Mu, Xuejun An, Xiaochun Ye, and Dongrui Fan. In IEEE Transactions on Parallel and Distributed Systems (Early Access). **(_CCF-A, Corresponding Author_)**
