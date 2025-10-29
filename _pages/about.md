@@ -51,15 +51,16 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 ## 🌟 Honors {#honors}
 
-- Chinese Academy of Sciences President's Scholarship （2024）
-- Beijing Outstanding Graduate Award （2024）
+- Chinese Academy of Sciences President's Scholarship （中国科学院院长奖）
+- Beijing Outstanding Graduate Award （北京市优秀毕业生）
+- ICT Diretor's Scholarship（计算所所长奖）
 - Outstanding Paper Nomination Award at CCF HPC China （2023）
 
 ## 👨‍🏫 Services {#services}
 
 - Program Committee Member for HPC China 2025
 - Program Committee Member for ISPA 2025
-- Journal Reviewer: Journal of systems architecture，Future generation computer systems，Sustainable computing......
+- Journal Reviewer: Journal of Systems Architecture，Future Generation Computer Systems......
 
 
 ## 🎓 Educations {#educations}
@@ -68,8 +69,9 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 
 
-## 🖥️ Experience {#experience}
-- _2024.07_ - _Present_ ,  Assistant Professor
+## 🖥️ Projects {#experience}
+- National Natural Science Foundation of China, Research on Dataflow Graph Optimization and Scheduling Based on Artificial Intelligence, 2026.01--2028.12
+
 
 ## 👥 Supervisory Faculty {#team}
 
