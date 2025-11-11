@@ -71,7 +71,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 
 
-## 🖥️ Projects {#projects}
+## 🖥️ Research Fundings {#projects}
 - National Natural Science Foundation of China, Research on Dataflow Graph Optimization and Scheduling Based on Artificial Intelligence, 2026.01--2028.12
 
 
