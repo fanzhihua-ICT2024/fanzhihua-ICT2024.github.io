@@ -15,6 +15,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 ## 📝 Publications {#publications}
 (_* indicates the corresponding author_)
 
+- **[JSA-26]** [A Real-Time Edge SAR Imaging Acceleration Architecture Utilizing Multi-Level Dataflow Parallelism ](). Yinshen Wang, Zhengxuan Hu, Ping Zhang, **Zhihua Fan\***, Wenming Li, Xiaochun Ye and Xuejun An. In Journal of Systems Architecture (Just Accept). **(_CCF-B, Corresponding Author_)**
 - **[FCS-26]** [Striking the Mantissa: How Few Bits are Enough for Accurate DNN Inference?](). Zhiyuan Zhang, Ping Zhang, **Zhihua Fan\***, Wenming Li, Xiaochun Ye and Xuejun An. In Frontiers of Computer Science (Just Accept). **(_CCF-B, Corresponding Author_)**
 - **[DATE-26]** [A2RT: Efficient Ray Tracing Accelerator with Approximate-Accurate Computing and Quantization](). Zhiyuan Zhang, **Zhihua Fan\***, Wenming Li, Yudong Mu, Yuhang Qiu, Zhen Wang, Xiaochun Ye and Xuejun An. In In Design, Automation & Test in Europe Conference & Exhibition (Just Accept). **(_CCF-B, Corresponding Author_)**
 - **[DATE-26]** [RISC-V ISA Extensions for Vectorized Unstructured Sparse SpMM in LLM Inference](). Tengfei Xia,**Zhihua Fan\***, Jing Xue, Shantian Qin, Xiaochun Ye and Wenming Li. In In Design, Automation & Test in Europe Conference & Exhibition (Just Accept). **(_CCF-B, Corresponding Author_)**
