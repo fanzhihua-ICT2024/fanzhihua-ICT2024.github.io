@@ -15,6 +15,8 @@ My research focuses on developing high-efficiency processor architectures by exp
 ## 📝 Publications {#publications}
 (_* indicates the corresponding author_)
 
+- **[DAC-26]** [UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference](). Zhengxuan Hu,  **Zhihua Fan\***, Shantian Qin, Yudong Mu, Wenming Li and Xiaochun Ye. In Design Automation Conference (Just Accept) . **(_CCF-A, Corresponding Author_)**
+- **[DAC-26]** [AHASD: Asynchronous Heterogeneous Architecture for LLM Adaptive Drafting Speculative Decoding on Mobile Devices ]().  Zirui Ma,**Zhihua Fan\***, Wenming Li, Wenxing Li, Haibin Wu, Fulin Zhang, Wenming Li and Xiaochun Ye. In Design Automation Conference (Just Accept) . **(_CCF-A, Corresponding Author_)**
 - **[ASPLOS-26]** [BitRed: Taming Non-Uniform Bit-Level Sparsity with a Programmable RISC-V ISA for DNN Acceleration](). Yanhuan Liu, Wenming Li, Kunming Zhang, Yuqun Liu, Siao Wen, Lexin Wang, Tianyu Liu, Haibin Wu, **Zhihua Fan**, Xiaochun Ye, Dongrui Fan, Xuejun An. In  International Conference on Architectural Support for Programming Languages and Operating Systems (Just Accept). **(_CCF-A_)**
 - **[TCAD-26]** [A RISC-V Extended Infrastructure for Edge FHE Through Software and Hardware Co-Design](https://ieeexplore.ieee.org/document/11272912). **Zhihua Fan**, Jing Xue, Wenming Li, Xuejun An, Xiaochun Ye. In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (Just Accept). **(_CCF-A_)**
 - **[JSA-26]** [A Real-Time Edge SAR Imaging Acceleration Architecture Utilizing Multi-Level Dataflow Parallelism ](https://www.sciencedirect.com/science/article/abs/pii/S1383762125003078). Yinshen Wang, Zhengxuan Hu, Ping Zhang, **Zhihua Fan\***, Wenming Li, Xiaochun Ye and Xuejun An. In Journal of Systems Architecture , Volume 170, 2026. **(_CCF-B, Corresponding Author_)**
@@ -67,7 +69,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 - Program Committee Member for HPC China 2025
 - Program Committee Member for ISPA 2025
-- Journal Reviewer: Journal of Systems Architecture，Future Generation Computer Systems......
+- Journal Reviewer: ACM TACO，CCF THPC，JSA，FGCS......
 
 
 ## 🎓 Educations {#educations}
