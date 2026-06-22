@@ -15,7 +15,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 ## 📝 Publications {#publications}
 (_* indicates the corresponding author_)
 
-- **[FGCS-26]** [HALO: A Heterogeneous Accelerator for Low-Latency and Energy-Efficient Edge LLM Inference](). Kunming Zhang, **Zhihua Fan\***, Yanhuan Liu, Lexin Wang, Yuqun Liu, Haibin Wu, Xiaochun Ye and Wenming Li. In Future Generation Computer Systems (Just Accept). **(_CCF-C, Corresponding Author_)**
+- **[FGCS-26]** [HALO: A Heterogeneous Accelerator for Low-Latency and Energy-Efficient Edge LLM Inference](https://www.sciencedirect.com/science/article/pii/S0167739X26002803). Kunming Zhang, **Zhihua Fan\***, Yanhuan Liu, Lexin Wang, Yuqun Liu, Haibin Wu, Xiaochun Ye and Wenming Li. In Future Generation Computer Systems (Just Accept). **(_CCF-C, Corresponding Author_)**
 - **[EuroPar-26]** [HGNNMap: Heterogeneous Graph Neural Network-Based Mapping for Spatial Accelerators.](). Shengzhong Tang, **Zhihua Fan\***, Tianyu Liu, Xuejun An，Xiaochun Ye and Wenming Li. In Euro-Par 2026: Parallel Processing (Just Accept). **(_CCF-B, Corresponding Author_)**
 - **[ISCA-26]** [MLX: Multi-Layer Execution for Structured LLM Workload Acceleration on Spatial Architectures](). Haibin Wu, Wenming Li, **Zhihua Fan**, Zirui Ma, Yuqun Liu, Tengfei Xia, Yanhuan Liu, Kunming Zhang, Xiaochun Ye, Dongrui Fan, Jian Weng. In International Symposium on Computer Architecture **(_CCF-A_, Best Paper Candidate)**
 - **[DAC-26]** [UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference](). Zhengxuan Hu,  **Zhihua Fan\***, Shantian Qin, Yudong Mu, Wenming Li and Xiaochun Ye. In Design Automation Conference (Just Accept) . **(_CCF-A, Corresponding Author_)**
