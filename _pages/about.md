@@ -71,7 +71,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 ## 👨‍🏫 Services {#services}
 
 - Program Committee Member for ISPA 2025、HPC-China 2025、 ChinaSYS 2025、2026
-- Journal Reviewer: ACM TACO，CCF THPC，JPDC、JSA，FGCS......
+- Journal Reviewer: ACM TACO，IEEE TCAD、CCF THPC，JPDC、JSA，FGCS......
 
 
 ## 🎓 Educations {#educations}
