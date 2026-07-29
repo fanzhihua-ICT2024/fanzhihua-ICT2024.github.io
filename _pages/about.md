@@ -72,7 +72,8 @@ My research focuses on developing high-efficiency processor architectures by exp
 - Beijing Outstanding Graduate Award （北京市优秀毕业生）
 - ICT Diretor's Scholarship（计算所所长奖）
 - Outstanding Paper Nomination Award at CCF HPC China
-- CCF Architecture Doctoral Dissertation Nomination Award 
+- CCF Architecture Doctoral Dissertation Nomination Award (2026 CCF博士论文激励计划提名（体系结构专委）)
+- Best Paper Award Finalist, ISCA 2026
 
 ## 👨‍🏫 Services {#services}
 
