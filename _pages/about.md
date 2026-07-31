@@ -70,10 +70,11 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 - Chinese Academy of Sciences President's Scholarship （中国科学院院长奖）
 - Beijing Outstanding Graduate Award （北京市优秀毕业生）
-- ICT Diretor's Scholarship（计算所所长奖）
+- ICT Director's Scholarship（计算所所长奖）
 - Outstanding Paper Nomination Award at CCF HPC China
 - CCF Architecture Doctoral Dissertation Nomination Award (2026 CCF博士论文激励计划提名（体系结构专委）)
 - Best Paper Award Finalist, ISCA 2026
+- Top-Pick Team Award, APPT 2026 Student GPU Programming Challenge
 
 ## 👨‍🏫 Services {#services}
 
