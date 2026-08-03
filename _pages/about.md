@@ -96,11 +96,32 @@ My research focuses on developing high-efficiency processor architectures by exp
 - National Natural Science Foundation of China, Research on Dataflow Graph Optimization and Scheduling Based on Artificial Intelligence, 2026.01--2028.12
 
 
-## 👥 Supervisory Faculty {#team}
+## 👥 Team {#team}
 
-- Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html), Ph.D. Supervisor: yexiaochun [at] ict.ac.cn
-- Prof. [Xuejun An](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html), Ph.D. Supervisor: axj [at] ict.ac.cn 
-- Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html), Ph.D. Supervisor: liwenming [at] ict.ac.cn
+### Co-supervised Ph.D. Students
+
+- **Shengzhong Tang**, Ph.D. Student, co-supervised with Prof. [Xuejun An](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html)
+- **Zhiyuan Zhang**, Ph.D. Student, co-supervised with Prof. [Xuejun An](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html)
+- **Zhen Wang**, Ph.D. Student, co-supervised with Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
+- **ZhengXuan Hu**, Ph.D. Student, co-supervised with Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
+- **Yudong Mu**, Ph.D. Student, co-supervised with Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html)
+- **Zirui Ma**, Ph.D. Student, co-supervised with Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html)
+- **Shantian Qin**, Ph.D. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+- **Tengfei Xia**, Ph.D. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+- **Fulin Zhang**, Ph.D. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+- **Yujie Zhu**, Ph.D. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+- **Haoran Tong**, Ph.D. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+- **Kunming Zhang**, Ph.D. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+- **Minsong Liu**, Ph.D. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+
+### Co-supervised Master's Students
+
+- **Yue Wang**, M.S. Student, co-supervised with Prof. [Xuejun An](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html)
+- **Jing Xue**, M.S. Student, co-supervised with Prof. [Xuejun An](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496581.html)
+- **Xihao Yang**, M.S. Student, co-supervised with Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
+- **Pingjiang Xie**, M.S. Student, co-supervised with Prof. [Xiaochun Ye](http://www.ict.cas.cn/sourcedb/cn/jssrck/201411/t20141115_4253437.html)
+- **Buwei Yang**, M.S. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
+- **Yu Long**, M.S. Student, co-supervised with Prof. [Wenming Li](http://www.ict.cas.cn/sourcedb/cn/jssrck/201810/t20181030_5151416.html)
 
 ## ✉️ Contact {#contact}
 
