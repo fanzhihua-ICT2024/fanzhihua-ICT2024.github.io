@@ -15,6 +15,10 @@ My research focuses on developing high-efficiency processor architectures by exp
 ## 📝 Publications {#publications}
 (_* indicates the corresponding author_)
 
+| Category | CCF-A | CCF-B | CCF-C | Other | Total |
+|:--------:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| Publications | **17** | **15** | **8** | **5** |**45** |
+
 - **[MICRO-26]** [SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](). Zirui Ma, **Zhihua Fan\***, Haibin Wu, Wenxing Li, Fulin Zhang, Dongrui Fan, Xiaochun Ye, Wenming Li. In International Symposium on Microarchitecture. **(_CCF-A, Corresponding Author_)**
 - **[ISCA-26]** [MLX: Multi-Layer Execution for Structured LLM Workload Acceleration on Spatial Architectures](). Haibin Wu, Wenming Li, **Zhihua Fan**, Zirui Ma, Yuqun Liu, Tengfei Xia, Yanhuan Liu, Kunming Zhang, Xiaochun Ye, Dongrui Fan, Jian Weng. In International Symposium on Computer Architecture **(_CCF-A_, Best Paper Candidate)**
 - **[ASPLOS-26]** [BitRed: Taming Non-Uniform Bit-Level Sparsity with a Programmable RISC-V ISA for DNN Acceleration](https://dl.acm.org/doi/epdf/10.1145/3779212.3790132). Yanhuan Liu, Wenming Li, Kunming Zhang, Yuqun Liu, Siao Wen, Lexin Wang, Tianyu Liu, Haibin Wu, **Zhihua Fan**, Xiaochun Ye, Dongrui Fan, Xuejun An. In  International Conference on Architectural Support for Programming Languages and Operating Systems, 2026, 239-254. **(_CCF-A_)**
