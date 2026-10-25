@@ -17,7 +17,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 | Category | CCF-A | CCF-B | CCF-C | Other | Total |
 |:--------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Publications | **17** | **17** | **9** | **6** |**49** |
+| Publications | **18** | **17** | **9** | **6** |**50** |
 
 - **[MICRO-26]** [SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](). Zirui Ma, **Zhihua Fan\***, Haibin Wu, Wenxing Li, Fulin Zhang, Dongrui Fan, Xiaochun Ye, Wenming Li. In International Symposium on Microarchitecture. **(_CCF-A, Corresponding Author_)**
 - **[ISCA-26]** [MLX: Multi-Layer Execution for Structured LLM Workload Acceleration on Spatial Architectures](). Haibin Wu, Wenming Li, **Zhihua Fan**, Zirui Ma, Yuqun Liu, Tengfei Xia, Yanhuan Liu, Kunming Zhang, Xiaochun Ye, Dongrui Fan, Jian Weng. In International Symposium on Computer Architecture **(_CCF-A_, Best Paper Candidate)**
@@ -25,6 +25,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 - **[DAC-26]** [UniNL: Unifying Fragmented Non-Linear Operators for Efficient Edge LLM Inference](). Zhengxuan Hu,  **Zhihua Fan\***, Shantian Qin, Yudong Mu, Wenming Li and Xiaochun Ye. In Design Automation Conference (Just Accept) . **(_CCF-A, Corresponding Author_)**
 - **[DAC-26]** [AHASD: Asynchronous Heterogeneous Architecture for LLM Adaptive Drafting Speculative Decoding on Mobile Devices ]().  Zirui Ma,**Zhihua Fan\***,  Wenxing Li, Haibin Wu, Fulin Zhang, Wenming Li and Xiaochun Ye. In Design Automation Conference (Just Accept) . **(_CCF-A, Corresponding Author_)**
 - **[TACO-26]** [TOSCA: Towards Semi-Centralized Scheduling in Dataflow Architectures via Hardware-Software Co-Design](). Shantian Qin, **Zhihua Fan\***, Dongrui Fan, Xiaochun Ye, Wenming Li. In ACM Transactions on Architecture and Code Optimization. **(_CCF-A, Corresponding Author_)**
+- **[TACO-26]** [An ISA-Centric RISC-V Heterogeneous Architecture for Energy Efficient Ray Tracing Pipeline Acceleration](). Zhiyuan Zhang, **Zhihua Fan\***, Jing Xue, Yuhang Qiu, Ping Zhang, Xuejun An, Xiaochun Ye, Wenming Li. In ACM Transactions on Architecture and Code Optimization. **(_CCF-A, Corresponding Author_)**
 - **[TOCS-26]** [ M^2-DFU: Multi-Mode Dataflow Architecture for Adaptive and High-Efficiency Data Processing](). Wenming Li, **Zhihua Fan\***,  Haibin Wu, Kunming Zhang, Yu Liu, Haoran Tong, Xiaochun Ye, Dongrui Fan. In ACM ACM Transactions on Computer Systems. **(_CCF-A, Corresponding Author_)**
 - **[TCAD-26]** [A RISC-V Extended Infrastructure for Edge FHE Through Software and Hardware Co-Design](https://ieeexplore.ieee.org/document/11272912). **Zhihua Fan**, Jing Xue, Wenming Li, Xuejun An, Xiaochun Ye. In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (Just Accept). **(_CCF-A_)**
 - **[TCAD-26]** [A Scalable RISC-V Extended Infrastructure for Unstructured SpMM in LLM Inference with Vectorizable Sparse Format](). Tengfei Xia,**Zhihua Fan\***, Jing Xue, Teng Luo, Shantian Qin, Xiaochun Ye, Dongrui Fan, Wenming Li. In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (Just Accept). **(_CCF-A, Corresponding Author_)**
