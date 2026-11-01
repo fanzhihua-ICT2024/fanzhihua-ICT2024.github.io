@@ -17,7 +17,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 | Category | CCF-A | CCF-B | CCF-C | Other | Total |
 |:--------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Publications | **18** | **17** | **9** | **6** |**50** |
+| Publications | **18** | **17** | **10** | **6** |**51** |
 
 - **[MICRO-26]** [SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](). Zirui Ma, **Zhihua Fan\***, Haibin Wu, Wenxing Li, Fulin Zhang, Dongrui Fan, Xiaochun Ye, Wenming Li. In International Symposium on Microarchitecture. **(_CCF-A, Corresponding Author_)**
 - **[ISCA-26]** [MLX: Multi-Layer Execution for Structured LLM Workload Acceleration on Spatial Architectures](). Haibin Wu, Wenming Li, **Zhihua Fan**, Zirui Ma, Yuqun Liu, Tengfei Xia, Yanhuan Liu, Kunming Zhang, Xiaochun Ye, Dongrui Fan, Jian Weng. In International Symposium on Computer Architecture **(_CCF-A_, Best Paper Candidate)**
