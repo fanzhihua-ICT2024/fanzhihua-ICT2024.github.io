@@ -17,7 +17,7 @@ My research focuses on developing high-efficiency processor architectures by exp
 
 | Category | CCF-A | CCF-B | CCF-C | Other | Total |
 |:--------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| Publications | **18** | **17** | **10** | **6** |**51** |
+| Publications | **21** | **17** | **10** | **6** |**54** |
 
 -**[HPCA-27]** [HARP: A Hierarchical Attention and Representation Sparsity Accelerator for Diffusion Transformers](). Yudong Mu, Minnan Pei, **Zhihua Fan\***, Zirui Ma, Gang Li, Zhuoran Song, Yu Huang, Dongrui Fan, Xiaochun Ye, Wenming Li. In IEEE International Symposium on High-Performance Computer Architecture. **(_CCF-A, Corresponding Author_)**
 -**[HPCA-27]** [GSPIM: A Temporal-Locality-Aware 4D Gaussian Splatting Accelerator with Polymorphic PIM and Multi-Frame Rendering Dataflow](). Zirui Ma, **Zhihua Fan\***, Haibin Wu, Dongrui Fan, Xiaochun Ye, Wenming Li. In IEEE International Symposium on High-Performance Computer Architecture. **(_CCF-A, Corresponding Author_)**
